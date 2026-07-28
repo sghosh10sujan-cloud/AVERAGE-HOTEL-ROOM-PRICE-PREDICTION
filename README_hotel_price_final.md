@@ -12,6 +12,8 @@ This project involves data exploration and regression modeling to predict the av
   * Model training and evaluation
 
 * `hotel_bookings.csv` — The dataset used for analysis (expected to be in the same directory)
+* `report.pdf` — Project summary report
+
 
 NOTE: The dataset was split into train/test before any feature-selection diagnostics were run, to prevent test-set information from leaking into feature engineering decisions.
 
